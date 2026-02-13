@@ -8,6 +8,8 @@
 - Use component input binding with routes
 - Navigate programmatically in Angular
 
+**Note:** Search form and filtering are now covered only in Practice Activity 2.
+
 ### Prerequisites
 - Complete Module 1 Practice Activities (basic routing, components, and services)
 
