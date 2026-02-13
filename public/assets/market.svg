@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f0f8ff"/>
+  
+  <!-- Store building -->
+  <rect x="75" y="120" width="250" height="140" fill="#8B4513"/>
+  
+  <!-- Roof -->
+  <polygon points="50,120 200,50 350,120" fill="#A0522D"/>
+  
+  <!-- Door -->
+  <rect x="170" y="180" width="60" height="80" fill="#654321"/>
+  
+  <!-- Windows -->
+  <rect x="100" y="150" width="40" height="40" fill="#87CEEB"/>
+  <rect x="260" y="150" width="40" height="40" fill="#87CEEB"/>
+  
+  <!-- Sign -->
+  <rect x="120" y="80" width="160" height="30" fill="#FFA500"/>
+  <text x="200" y="100" font-family="Arial" font-size="20" fill="#fff" text-anchor="middle" font-weight="bold">MARKET</text>
+  
+  <!-- Shopping cart icon -->
+  <circle cx="80" cy="235" r="8" fill="#333"/>
+  <circle cx="110" cy="235" r="8" fill="#333"/>
+  <path d="M 60 200 L 70 220 L 120 220 L 115 200 Z" fill="#333"/>
+  <line x1="60" y1="200" x2="40" y2="180" stroke="#333" stroke-width="3"/>
+</svg>
